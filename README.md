@@ -34,3 +34,33 @@ This is the first usable release of the WhatsApp Profile Picture Converter.
 - Add manual zoom and positioning.
 - Add drag-and-drop upload.
 - Add PNG export option.
+
+**Key information about the Source code **
+Important Files
+src/main.jsx
+Main React code. Handles upload, conversion, preview, and download.
+
+src/styles.css
+Design and layout.
+
+package.json
+Lists required packages and commands.
+
+README.md
+Basic project guide.
+
+RELEASE_NOTES.md
+Notes for version 1.0.0.
+
+you need node.js insatalled in you system 
+
+Start app: 
+npm run dev 
+
+Build fial Prodcution version 
+npm run build 
+
+preview production build 
+npm Run Preview 
+
+
